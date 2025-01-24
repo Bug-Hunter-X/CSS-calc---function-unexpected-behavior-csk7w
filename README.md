@@ -1,0 +1,3 @@
+# CSS `calc()` Unexpected Behavior
+
+This repository demonstrates a common issue encountered when using the `calc()` function in CSS.  The `calc()` function allows for dynamic calculations within CSS, but it requires careful attention to operator precedence and unit consistency to avoid unexpected results. This example showcases a scenario where the `calc()` function fails to render correctly due to missing parent element dimensions.
